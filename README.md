@@ -1,8 +1,3 @@
-C-codes 
-.
-.
-.
-                                Writing short programs in C language
 
 
 
