@@ -15,7 +15,7 @@
 #
 # Example
 
-`input:`Enter the size of the array:	4
+`Input:`Enter the size of the array:	4
 
 array[0] : 1
 
@@ -25,7 +25,7 @@ array[2] : 3
 
 array[3] : 4
 
-`output:`
+`Output:`
 ------------------------------
 
 max_num:4	min_num:1	mean_num:2.500000	
@@ -47,7 +47,7 @@ max_num:4	min_num:1	sum_num:5
 ------------------------------
 
 
-`input:`Enter the size of the array:	5
+`Input:`Enter the size of the array:	5
 
 array[0] : 6554
 
@@ -59,7 +59,7 @@ array[3] : -345
 
 array[4] : 0
 
-`output:`
+`Output:`
 ------------------------------
 
 max_num:6554	min_num:-345	mean_num:3104.500000	
@@ -82,7 +82,7 @@ max_num:6554	min_num:-345	sum_num:6209
 
 ------------------------------  
 
-`input:`Enter the size of the array:	3
+`Input:`Enter the size of the array:	3
 
 array[0] : 1
 
@@ -90,7 +90,7 @@ array[1] : 99
 
 array[2] : 55
 
-`output:`
+`Output:`
 ------------------------------
 
 max_num:99	min_num:1	mean_num:50.000000	
