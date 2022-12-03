@@ -13,7 +13,9 @@
 
 # Example
 
-`Input:`Enter the array size:   4
+`Input:` 
+
+Enter the array size:   4
 
 Enter a first digit of  array:  1
 
@@ -30,7 +32,9 @@ array[2]:3
 array[3]:4
 
 Numbeer 3 found and its index is = array[2]
+
 #
+
 `Input:`
 
 Enter the array size:   4
@@ -50,6 +54,8 @@ array[2]:12
 array[3]:13
 
 Number 16 not found.
+
+#
 
 `Input:`
 
@@ -72,3 +78,5 @@ array[3]:103
 array[4]:104
 
 Numbeer 104 found and its index is = array[4] 
+
+#
