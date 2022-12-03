@@ -20,6 +20,7 @@ Enter a first digit of  array:  1
 Enter your desired number to search in the list 3
 
 `Output:`
+
 array[0]:1
 
 array[1]:2
@@ -30,13 +31,16 @@ array[3]:4
 
 Numbeer 3 found and its index is = array[2]
 #
-`Input:`Enter the array size:   4
+`Input:`
+
+Enter the array size:   4
 
 Enter a first digit of  array:  10
 
 Enter your desired number to search in the list 16
 
 `Output:`
+
 array[0]:10
 
 array[1]:11
@@ -47,13 +51,16 @@ array[3]:13
 
 Number 16 not found.
 
-`Input:`Enter the array size:   5
+`Input:`
+
+Enter the array size:   5
 
 Enter a first digit of  array:  100
 
 Enter your desired number to search in the list 104
 
 `Output:`
+
 array[0]:100
 
 array[1]:101

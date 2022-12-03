@@ -15,6 +15,7 @@
  #Example
 
  `Input:`
+
  Enter the array size: 4
 
 Enter the first digit of the array: 1
@@ -22,6 +23,7 @@ Enter the first digit of the array: 1
 Enter a digit : 4
 
 `Output:`
+
 array[0]=1
 
 array[1]=2
@@ -29,11 +31,13 @@ array[1]=2
 array[2]=3
 
 array[3]=4
-____________________
+
 
 Number 4 found and its index is 3
+____________________________________
 
 `Input:`
+
 Enter the array size: 5
 
 Enter the first digit of the array: 10
@@ -41,6 +45,7 @@ Enter the first digit of the array: 10
 Enter a digit : 9
 
 `Output:`
+
 array[0]=10
 
 array[1]=11
@@ -50,11 +55,13 @@ array[2]=12
 array[3]=13
 
 array[4]=14
-____________________
+
 
 Not found!
+____________________________________
 
 `Input:`
+
 Enter the array size: 5
 
 Enter the first digit of the array: 30
@@ -62,6 +69,7 @@ Enter the first digit of the array: 30
 Enter a digit : 34
 
 `Output:`
+
 array[0]=30
 
 array[1]=31
@@ -71,6 +79,7 @@ array[2]=32
 array[3]=33
 
 array[4]=34
-____________________
 
 Number 34 found and its index is 4
+
+____________________________________

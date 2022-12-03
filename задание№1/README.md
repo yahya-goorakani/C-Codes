@@ -18,15 +18,29 @@
 #
 # Example
 
-`Input:`Enter an integer: 5
+`Input:`
 
-`Output:`the sum of the digits of the number 5 is equal to : 15.
+Enter an integer: 5
+
+`Output:`
+
+the sum of the digits of the number 5 is equal to : 15.
+
 #
-`Input:`Enter an integer:10
+`Input:`
 
-`Output:`the sum of the digits of the number 10 is equal to : 55. 
+Enter an integer:10
+
+`Output:`
+
+the sum of the digits of the number 10 is equal to : 55. 
+
 #
-`Input:`Enter an integer:1
+`Input:`
 
-`Output:`the sum of the digits of the number 1 is equal to : 1.
+Enter an integer:1
+
+`Output:`
+
+the sum of the digits of the number 1 is equal to : 1.
 #
