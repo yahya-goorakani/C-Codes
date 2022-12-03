@@ -6,6 +6,16 @@
     "configurations": [
         
         {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+
+
+        
+        {
             "name": "(gdb) Attach",
             "type": "cppdbg",
             "request": "attach",
