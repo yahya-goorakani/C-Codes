@@ -6,7 +6,7 @@
 int main(){
 
 	int a;
-	printf("Enter the soze of the array:\t");
+	printf("Enter the size of the array:\t");
 	scanf("%d",&a);
 
 printf("\n");
