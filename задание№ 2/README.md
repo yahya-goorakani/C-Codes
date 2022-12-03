@@ -18,55 +18,94 @@
 `input:`Enter the size of the array:	4
 
 array[0] : 1
+
 array[1] : 2
+
 array[2] : 3
+
 array[3] : 4
 
-`output:`------------------------------
-max_num:4	min_num:1	mean_num:2.500000	
-------------------------------
-array[0] : 4
-array[1] : 2
-array[2] : 3
-array[3] : 1
-------------------------------
-max_num:4	min_num:1	sum_num:5	
+`output:`
 ------------------------------
 
-#
+max_num:4	min_num:1	mean_num:2.500000	
+
+------------------------------
+
+array[0] : 4
+
+array[1] : 2
+
+array[2] : 3
+
+array[3] : 1
+
+------------------------------
+
+max_num:4	min_num:1	sum_num:5	
+
+------------------------------
+
 
 `input:`Enter the size of the array:	5
 
 array[0] : 6554
+
 array[1] : 76
+
 array[2] : 87
+
 array[3] : -345
+
 array[4] : 0
 
-`output:`Enter the size of the array:	5
+`output:`
+------------------------------
 
-array[0] : 6554
+max_num:6554	min_num:-345	mean_num:3104.500000	
+
+------------------------------
+
+array[0] : -345
+
 array[1] : 76
+
 array[2] : 87
-array[3] : -345
+
+array[3] : 6554
+
 array[4] : 0
 
-#
+------------------------------
+
+max_num:6554	min_num:-345	sum_num:6209	
+
+------------------------------%  
 
 `input:`Enter the size of the array:	3
 
 array[0] : 1
+
 array[1] : 99
+
 array[2] : 55
 
-`output:`------------------------------
+`output:`
+------------------------------
+
 max_num:99	min_num:1	mean_num:50.000000	
+
 ------------------------------
+
 array[0] : 99
+
 array[1] : 1
+
 array[2] : 55
+
 ------------------------------
+
 max_num:99	min_num:1	sum_num:100	
+
 ------------------------------%
 
-#
