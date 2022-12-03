@@ -25,7 +25,7 @@ int left_index = 0;
 int right_index = a;
 while(left_index < right_index){
 	if(right_index + h <= g){
-		right_index==-1;
+		right_index == -1;
 		break;
 	}
 	else if(g >= h + right_index+h){
