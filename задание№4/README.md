@@ -1,4 +1,4 @@
-# YAHYA-GOORAKANI
+# binary search
 
 Задание № 4 (лабораторная работа №4)
  Задача: дан массив вещественных чисел (упорядоченный по возрастанию). С клавиатуры вводится число Х, определить находится ли это число Х в заданном массиве (если находится, то указать его место в массиве) с помощью алгоритма бинарного поиска.
@@ -23,7 +23,7 @@ Enter the first digit of the array: 1
 Enter a digit : 4
 
 `Output:`
-
+```
 array[0]=1
 
 array[1]=2
@@ -34,6 +34,7 @@ array[3]=4
 
 
 Number 4 found and its index is 3
+```
 ____________________________________
 
 `Input:`
@@ -45,7 +46,7 @@ Enter the first digit of the array: 10
 Enter a digit : 9
 
 `Output:`
-
+```
 array[0]=10
 
 array[1]=11
@@ -58,6 +59,7 @@ array[4]=14
 
 
 Not found!
+```
 ____________________________________
 
 `Input:`
@@ -69,7 +71,7 @@ Enter the first digit of the array: 30
 Enter a digit : 34
 
 `Output:`
-
+```
 array[0]=30
 
 array[1]=31
@@ -81,6 +83,6 @@ array[3]=33
 array[4]=34
 
 Number 34 found and its index is 4
-
+```
 ____________________________________
 #
