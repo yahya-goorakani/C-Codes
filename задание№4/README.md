@@ -83,3 +83,4 @@ array[4]=34
 Number 34 found and its index is 4
 
 ____________________________________
+#
