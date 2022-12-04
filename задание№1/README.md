@@ -1,4 +1,4 @@
-# YAHYA-GOORAKANI
+# sum of multiplicants
 
 
 
