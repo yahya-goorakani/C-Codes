@@ -18,8 +18,11 @@
 Enter the size of the array:    4
 
 array[0] : 11
+
 array[1] : 22
+
 array[2] : 33
+
 array[3] : 44
 
 `Output:`
@@ -38,9 +41,13 @@ max_num:44      min_num:11      sum_num:55
 Enter the size of the array:    5
 
 array[0] : 5
+
 array[1] : 34
+
 array[2] : -54
+
 array[3] : 0
+
 array[4] : 3
 
 `Output:`
@@ -60,11 +67,17 @@ max_num:34      min_num:-54     sum_num:-20
 Enter the size of the array:    7
 
 array[0] : 3
+
 array[1] : 7
+
 array[2] : 4
+
 array[3] : 0
+
 array[4] : 5
+
 array[5] : 2
+
 array[6] : 1
 
 `Output:`
