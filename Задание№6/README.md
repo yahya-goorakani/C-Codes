@@ -18,3 +18,62 @@
 
 
 `Input:`
+
+Enter the size of the array:    5
+
+a[0] : 34
+
+a[1] : 12
+
+a[2] : -7
+
+a[3] : 0
+
+a[4] : 123
+
+`Output:`
+```
+Array befor sorting:
+34, 12, -7, 0, 123
+
+Array after sorting:
+-7, 0, 12, 34, 123
+```
+
+`Input:`
+Enter the size of the array:    3
+
+a[0] : 100
+
+a[1] : -100
+
+a[2] : 50
+
+`Output:`
+```
+Array befor sorting:
+100, -100, 50
+
+Array after sorting:
+-100, 50, 100
+```
+
+`Input:`
+Enter the size of the array:    4
+
+a[0] : 4
+
+a[1] : 2
+
+a[2] : 1
+
+a[3] : -1
+
+`Output:`
+```
+Array befor sorting:
+4, 2, 1, -1
+
+Array after sorting:
+-1, 1, 2, 4
+```
