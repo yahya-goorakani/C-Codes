@@ -1,18 +1,23 @@
 #include<stdio.h>
-
+#include<stdlib.h>
 int main (){
 
 int a;
-
+int a1;
 printf("Enter an integer:");
 scanf("%d",&a);
 
+a1=a;
 int sum=0;
-for(int i=1;i<=a;i++) 
+   while (a){
+       sum+=a%10;
+      a/=10;
+   }
+if(sum<0)
 {
-	sum+=i;
+        sum=abs(sum);
 }
-printf("the sum of the digits of the number %d is equal to : %d ",a,sum);
+printf("the sum of the digits of the number %d is equal to : %d ",a1,sum);
 
 return 0;
 }
