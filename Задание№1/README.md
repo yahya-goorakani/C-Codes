@@ -23,37 +23,46 @@
 Enter an integer: 5
 
 `Output:`
+
 ```
 the sum of the digits of the number 5 is equal to : 5 % 
+
 ```
-#
+
 `Input:`
 
 Enter an integer:10
 
 `Output:`
+
 ```
-the sum of the digits of the number 10 is equal to : 1 %  
+the sum of the digits of the number 10 is equal to : 1 %
+
 ```
-#
+
 `Input:`
 
 Enter an integer:1
 
 `Output:`
+
 ```
-the sum of the digits of the number 1 is equal to : 1.
+the sum of the digits of the number 
+1 is equal to : 1.
+
 ```
-#
+
 `Input:`
 
 Enter an integer:-23
 
 `Output:`
+
 ```
 the sum of the digits of the number -23 is equal to : 5 % 
+
 ```
-#
+
 
 `Input:`
 
@@ -63,4 +72,3 @@ Enter an integer:-103
 ```
 the sum of the digits of the number -103 is equal to : 4 %  
 ```
-#
