@@ -2,15 +2,19 @@
 #include <malloc.h>
 
 void Sort_Arr(float *array, int n){
-    int index_min, sup;
+    int index_min; 
+    float sup;
     for (int i = 0; i < (n-1); i++){
         index_min = i;
         for (int j = i+1; j < n; j++){
             if (array[j] < array[index_min]) index_min = j;
         }
+        if( index_min = i)
+        {
         sup = array[i];
         array[i] = array[index_min];
         array[index_min] = sup;
+        }
     }
 }
 
